@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static int SIZE = 3;
+    private static final int SIZE = 3;
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
